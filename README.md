@@ -1,7 +1,6 @@
 # DataBase
 #SQL_Lodziarnia(projekt na DB, lodzirnia Goodlood)
-
-USE [master]
+'USE [master]
 GO
 /****** Object:  Database [Goodlood]    Script Date: 14.09.2023 15:32:58 ******/
 CREATE DATABASE [Goodlood]
@@ -870,5 +869,4 @@ GO
 USE [master]
 GO
 ALTER DATABASE [Goodlood] SET  READ_WRITE 
-GO
-
+GO'
